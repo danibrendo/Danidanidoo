@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danidanidoo (Daniel Brendo Franco)
-- 👀 I’m interested in C#, Rust, BlockChain and Linux
-- 🌱 I’m currently learning Sql Server and C#
+- 👀 I’m interested in JS, Rust, BlockChain and Linux
+- 🌱 I’m currently learning React
 - 📫 How to reach me: https://danibrendo.tech/
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
